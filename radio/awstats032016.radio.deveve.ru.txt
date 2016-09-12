@@ -184,8 +184,8 @@ END_SEREFERRALS
 # External page referers - Pages - Hits
 # The 10 first Pages must be first (order not required for others)
 BEGIN_PAGEREFS 2
-http://vk.com/im 8 8
-http://vk.com/away.php 1 1
+https://vk.com/im 8 8
+https://vk.com/away.php 1 1
 END_PAGEREFS
 
 # Search keyphrases - Number of search
